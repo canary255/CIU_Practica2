@@ -31,14 +31,12 @@ void draw(){
     translate(ejeX, ejeY,-800);
     shape(objeto);
     if(keyPressed){
-      if(modo3D){
       if (key == 'f' || key == 'F') toggleDrawingState();
       else if (key == 's' || key == 'S') ejeY +=10;
       else if (key == 'w' || key == 'W') ejeY -=10;
       else if (key == 'a' || key == 'A') ejeX -=10;
       else if (key == 'd' || key == 'D') ejeX +=10;
       }
-    }
   }
 }
 
