@@ -20,7 +20,7 @@
   - **A** - Mueve la figura hacia la izquierda.
   - **D** - Mueve la figura hacia la derecha.
   
-  ### Herramientas y Referencias
+### Herramientas y Referencias
   
   - [Conversión video a GIF](https://ezgif.com/video-to-gif)
   
